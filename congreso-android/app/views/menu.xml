@@ -1,0 +1,11 @@
+<Alloy>
+    <TableView backgroundColor="#212121" onClick="onSelect">
+      <Require src="menurow" title="Inicio" controller="main"/>
+      <Require src="menurow" title="Registro" controller="registro"/>
+      <Require src="menurow" title="Sede" controller="sede"/>
+      <Require src="menurow" title="Agenda" controller="agenda"/>
+      <Require src="menurow" title="Ponentes" controller="ponentes"/>
+      <Require src="menurow" title="Multimedia" controller="multimedia"/>
+      <Require src="menurow" title="Patrocinadores" controller="patrocinadores"/>
+    </TableView>
+</Alloy>

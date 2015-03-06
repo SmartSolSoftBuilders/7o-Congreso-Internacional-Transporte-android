@@ -1,0 +1,5 @@
+<Alloy>
+    <Window  modal="true">
+        <WebView url="http://www.7cit.org.mx/app/multimedia/index.html" />
+    </Window>
+</Alloy>

@@ -1,0 +1,5 @@
+<Alloy>
+    <Window  modal="true">
+        <WebView class="menu" url="http://registro.amtm.ahmreg.mx/" />
+    </Window>
+</Alloy>

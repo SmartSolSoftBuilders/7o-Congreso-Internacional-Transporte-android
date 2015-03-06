@@ -1,0 +1,15 @@
+
+".container" : {
+  
+}
+
+".menu" : {
+  top:'-20%',
+}
+
+"Label":{
+	font:{
+		fontSize: 100
+	},
+	color: 'black'
+}
